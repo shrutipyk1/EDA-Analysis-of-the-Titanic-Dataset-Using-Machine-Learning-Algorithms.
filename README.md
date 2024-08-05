@@ -1,6 +1,7 @@
 ## Screenshots
 
-![EDA](https://github.com/user-attachments/assets/8a0dba22-b56d-40cc-a8e4-f56a49026593)
+![EDA](https://github.com/user-attachments/assets/6674014d-2e60-4002-9b8f-19bee799c8d7)
+
 
 # 🚢 Exploratory Data Analysis (EDA) on the Titanic Dataset 🛳️
 
